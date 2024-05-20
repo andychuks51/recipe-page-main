@@ -46,6 +46,10 @@ ul, ol, li {
     font-family: var(--font-family-outfit);
 }
 
+hr {
+    color: rgba(0, 0, 0, 0.2);
+}
+
 .main-wrapper {
     max-width: 327px;
 
