@@ -87,7 +87,7 @@ hr {
             padding: 20px;
             border-radius: 10px;
 
-            h3 {
+            h2 {
                 margin-bottom: 15px;
                 color: var(--primary-dark-raspberry);
                 font-family: var(--font-family-outfit);
@@ -243,7 +243,7 @@ footer {
             div {
                 padding: 15px;
                 
-                h3 {
+                h2 {
                     font-size: 12px;
                 }
 
